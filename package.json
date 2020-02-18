@@ -18,7 +18,8 @@
   "scripts": {
     "test": "jasmine-ts --config=jasmine.json",
     "build": "tsc main.ts",
-    "execute": "node main.js"
+    "execute": "node main.js",
+    "start": "node main.js"
   },
   "author": "",
   "license": "ISC",
